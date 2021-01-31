@@ -11,6 +11,6 @@ For Doxygen:
  * @author GOSCPS
  * @license GOSCPS 许可证
  * @file    YourFileNameHere
- * @brief   YourFileContentHere
+ * @brief   YourFileContentHere \n
  * Copyright (c) 2020-2021 GOSCPS 保留所有权利.
  * * * * * * * * * * * * * * * * * * * * * * * * * * * * */
