@@ -8,7 +8,7 @@
 
 For Doxygen:
 /** * * * * * * * * * * * * * * * * * * * * * * * * * * * *
- * @author GOSCPS
+ * @author GOSCPS \n
  * @license GOSCPS 许可证
  * @file    YourFileNameHere
  * @brief   YourFileContentHere \n
