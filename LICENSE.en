@@ -1,0 +1,39 @@
+The GOSCPS License
+
+Version 2, 2021-2-14
+
+Copyright (c) 2020-2021 GOSCPS, All rights reserved.
+
+Definitions: 1. "GOSCPS" is the abbreviation of "Greater Open Source Co-Prosperity Sphere" in
+                this context.
+             2. Any redevelopments based on source code or binary of this software, or any other
+                source code or binary that contains source code or binary of this software, is called
+                "modified source code/binary of this software".
+
+Anyone who obeys the following terms can distribute source code or binary of this software, whether modified or not.
+This license is also for document or others.
+
+1. For distributed source code or binary, whether modified or not, the following sentence must be clearly marked:
+   "This product contains code written by GOSCPS and other contributors."
+
+2. For distributed source code or binary, whether modified or not, an unmodified full version of this license must be included.
+
+3. Supporting, approbating, or promoting source code or binary in GOSCPS or other contributors' name without extra allowing
+   is forbidden, whether modified or not.
+
+4. Providing any explicit or implicit when distributing source code or binary of this software is forbidden, whether modified or not.
+
+5. The following licenses are forbidden when distributing modified source code or binary of this software:
+    - GNU GPLv3
+    - GNU GPLv2
+    - GNU LGPLv3
+    - GNU LGPLv2
+    - GNU LGPLv2.1
+    - GNU AllPermissive
+    - GNU AGPLv3.0
+
+DISCALIMER:
+ * Both source code or binary of this software comes WITHOUT ANY EXPRESS OR IMPLIED WARRANTIES AND GUARANTEES, whether modified or not.
+ * GOSCPS and this software's contributors have NO RESPONSIBILITY for any result of using this software(source code or binary)
+ * regardless of any conditions, or infringement due to non-violation, even if it is notified in advance that such damage may be 
+ * caused, whether modified or not.
