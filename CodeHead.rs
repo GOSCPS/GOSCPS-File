@@ -18,7 +18,7 @@ or
 For Doxygen:
 /** * * * * * * * * * * * * * * * * * * * * * * * * * * * *
  * @author GOSCPS \n
- * @license GOSCPS 许可证
+ * Using GOSCPS 许可证
  * @file    YourFileNameHere
  * @brief   YourFileContentHere \n
  * Copyright (c) 2020-2021 GOSCPS 保留所有权利.
