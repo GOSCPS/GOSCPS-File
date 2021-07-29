@@ -18,7 +18,6 @@ or
 For Doxygen:
 /** * * * * * * * * * * * * * * * * * * * * * * * * * * * *
  * @file:  YourFileContentHere
- * Name:   YourFileNameHere
  * Using GOSCPSv3 License
  * Copyright (c) 2020-2021 GOSCPS 保留所有权利.
  * * * * * * * * * * * * * * * * * * * * * * * * * * * * */
