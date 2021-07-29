@@ -17,11 +17,10 @@ or
 
 For Doxygen:
 /** * * * * * * * * * * * * * * * * * * * * * * * * * * * *
- * @author GOSCPS
- * @license: GOSCPS 许可证
- * @file    YourFileNameHere
- * @brief:  YourFileContentHere
- * @copyright: Copyright (c) 2020-2021 GOSCPS 保留所有权利.
+ * @file:  YourFileContentHere
+ * Name:   YourFileNameHere
+ * Using GOSCPSv3 License
+ * Copyright (c) 2020-2021 GOSCPS 保留所有权利.
  * * * * * * * * * * * * * * * * * * * * * * * * * * * * */
 
 For IDEA:
